@@ -4,8 +4,8 @@
 		<TargetFramework>netcoreapp3.1</TargetFramework>
 		<SignAssembly>True</SignAssembly>
 		<AssemblyOriginatorKeyFile>CsvHelper.snk</AssemblyOriginatorKeyFile>
-		<AssemblyVersion>2020.10.22.1215</AssemblyVersion>
-		<FileVersion>2020.10.22.1215</FileVersion>
+		<AssemblyVersion>2020.10.22.1505</AssemblyVersion>
+		<FileVersion>2020.10.22.1505</FileVersion>
 	</PropertyGroup>
 
 	<ItemGroup>
