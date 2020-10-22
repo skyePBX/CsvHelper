@@ -8,7 +8,7 @@
 		
 		<!-- Build -->
 		<AssemblyName>CsvHelper</AssemblyName>
-		<TargetFrameworks>netstandard2.1;netstandard2.0;net45;net47</TargetFrameworks>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
 		<RootNamespace>CsvHelper</RootNamespace>
 		<DefaultLanguage>en-US</DefaultLanguage>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
@@ -30,6 +30,8 @@
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 		<RepositoryUrl>https://github.com/JoshClose/CsvHelper</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
+		<AssemblyVersion>2020.10.22.1215</AssemblyVersion>
+		<FileVersion>2020.10.22.1215</FileVersion>
 	</PropertyGroup>
 
 	<ItemGroup>
